@@ -1,0 +1,2 @@
+- All UI copy lives in the EN/EL/RU dictionaries in `src/lib/i18n.tsx`; never hardcode user-visible strings in route components. Routes render the shared `SiteHeader`/`SiteFooter` from `src/components/`.
+- Define the Bespoke visual palette and typography as semantic tokens in `src/styles.css`; this keeps the renewed interface consistent.
