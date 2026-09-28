@@ -2,7 +2,7 @@
 
 Website for Bespoke Property Management, Cyprus. Available in English (`/`), Greek (`/el`) and Russian (`/ru`).
 
-## Development
+## Development 
 
 Requires Node.js and Yarn.
 
